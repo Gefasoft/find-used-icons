@@ -1,0 +1,11 @@
+[package]
+name = "find-used-icons"
+version = "0.1.0"
+authors = ["raymond.mao <raymond.mao@gefasoft.de>"]
+edition = "2018"
+
+[dependencies]
+walkdir = "2.2"
+regex = "1.1"
+lazy_static = "1.3"
+parking_lot = "0.7"
